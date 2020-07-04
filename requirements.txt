@@ -1,0 +1,11 @@
+pillow
+aiohttp
+https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+tgcrypto
+youtube-dl
+chromeprinter
+dicioinformal
+gtts
+wikipedia
+desciclopedia
+pySmartDL

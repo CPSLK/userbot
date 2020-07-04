@@ -1,0 +1,11 @@
+{
+  "name": "UserBot",
+  "description": "A UserBot using Pyrogram",
+  "repository": "https://github.com/so",
+  "logo": "https://piics.ml/i/115.png",
+  "keywords": [
+    "python",
+    "userbot",
+    "pyrogram"
+  ]
+}
